@@ -6,7 +6,6 @@ import ProtectedRoute from './components/ProtectedRoute';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import CaseList from './pages/CaseList';
-import StatusBadge from './components/StatusBadge';
 
 function App() {
   return (
