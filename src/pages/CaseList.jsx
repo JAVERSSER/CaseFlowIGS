@@ -9,7 +9,7 @@ import {
 import Layout from '../components/Layout';
 import Modal from '../components/Modal';
 import Loading from '../components/Loading';
-import StatusBadge from '../components/StatusBadge';
+import StatusBadge from '../components/StatusBadge/StatusBadge';
 import { useToast } from '../components/Toast';
 import {
   Plus,

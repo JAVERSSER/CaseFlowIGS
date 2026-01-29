@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { getCases } from '../firebase/firestore';
 import Layout from '../components/Layout';
 import Loading from '../components/Loading';
-import StatusBadge from '../components/StatusBadge';
+import StatusBadge from '../components/StatusBadge/StatusBadge';
 import {
   FolderOpen,
   Clock,
